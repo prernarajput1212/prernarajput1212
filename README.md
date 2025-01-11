@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prerna Trivedi</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Software Developer with a strong foundation in building scalable and robust applications using modern technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prernarajput1212&label=Profile%20views&color=0e75b6&style=flat" alt="prernarajput1212" /> </p>
